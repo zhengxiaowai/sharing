@@ -1,0 +1,9 @@
+{
+  "access_key": "test_access_key",
+  "secret_key": "test_secret_key",
+  "bucket": "static",
+  "zone": "zonehuadong",
+  "use_https": true,
+  "use_cdn_domains": true,
+  "domain": "https://static.zhengxiaowai.cc"
+}

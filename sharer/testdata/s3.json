@@ -1,0 +1,8 @@
+{
+  "access_key": "test_access_key",
+  "secret_key": "test_secret_key",
+  "bucket_name": "sharing-sg-demo",
+  "endpoint": "sgp1.digitaloceanspaces.com",
+  "use_ssl": true,
+  "use_domain": "https://sharing-sg-demo.sgp1.digitaloceanspaces.com"
+}
